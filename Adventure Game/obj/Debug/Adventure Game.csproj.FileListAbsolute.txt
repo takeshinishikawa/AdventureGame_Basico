@@ -1,0 +1,16 @@
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.AssemblyReference.cache
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+C:\Users\takes\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\obj\Debug\Adventure Game.csproj.AssemblyReference.cache
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\obj\Debug\Adventure Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\obj\Debug\Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\obj\Debug\Adventure Game.exe
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\obj\Debug\Adventure Game.pdb
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\bin\Debug\Adventure Game.exe.config
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\bin\Debug\Adventure Game.exe
+C:\Users\takes\source\repos\Adventure_Game_Basico\Adventure Game\bin\Debug\Adventure Game.pdb
